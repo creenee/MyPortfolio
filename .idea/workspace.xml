@@ -4,48 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75dcea20-cfb5-40cc-9fd7-a1fcdebeebf1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/artizanal about.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/artizanal bratari.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/artizanal contact.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/artizanal favorites.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/artizanal home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/artizanal meniu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/artizanal-project.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/design-project.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/design1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/design2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/design3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/design4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/design5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/mk-project.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/mk1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/mk2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/mk3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/mk4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/mk5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/mk6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/mk7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portofolio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/poza eu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/restaurant 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/restaurant 3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/restaurant 4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/restaurant-project.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/src/restaurant 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio.html.iml" afterDir="false" />
-    </list>
+    <list default="true" id="75dcea20-cfb5-40cc-9fd7-a1fcdebeebf1" name="Changes" comment="Add MyPortfolio" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,15 +19,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/pascucrina/IdeaProjects/Starter1/portfolio.html/images&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "20",
+    "last_opened_file_path": "/Users/pascucrina/IdeaProjects/Starter1/portfolio.html/images"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
@@ -90,6 +50,19 @@
       <option name="presentableId" value="Default" />
       <updated>1725799693754</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add MyPortfolio">
+      <option name="closed" value="true" />
+      <created>1727260692228</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727260692228</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add MyPortfolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add MyPortfolio" />
   </component>
 </project>
